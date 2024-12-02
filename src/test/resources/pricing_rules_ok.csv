@@ -1,0 +1,6 @@
+product_code,unit_price,special_offer_count,special_offer_discount
+A,50,3,20
+B,30,2,15
+C,20,,
+D,15,,
+E,1,,
